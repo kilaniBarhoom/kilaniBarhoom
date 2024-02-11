@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Kilani</h1>
 
-- 👤 View My Portfolio **[https://653549464e7993053e794bb9--eloquent-madeleine-2869f4.netlify.app/](https://653549464e7993053e794bb9--eloquent-madeleine-2869f4.netlify.app/)**
+- 👤 View My Portfolio **[https://glittery-sable-f888ad.netlify.app/](https://glittery-sable-f888ad.netlify.app/)**
 
 - 🔭 I’m a **CSE student**
 
