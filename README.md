@@ -1,13 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Kilani</h1>
 
-- 👤 View My Portfolio **[https://glittery-sable-f888ad.netlify.app/](https://glittery-sable-f888ad.netlify.app/)**
+-  👤 View My Portfolio https://glittery-sable-f888ad.netlify.app
 
-- 🔭 I’m a **CSE student**
+-  🔭 I’m a **CSE student**  
 
-- 📫 How to reach me **ibrahim-kelani@hotmail.com**
+-   📫 How to reach me **ibrahim-kelani@hotmail.com** 
 
-<h3 align="left">Connect with me:</h3>
+-  📝 Resume **ibrahim-kelani@hotmail.com**
+
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/ibrahim kilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim kilani" height="30" width="40" /></a>
 <a href="https://fb.com/ibrahim kilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibrahim kilani" height="30" width="40" /></a>
