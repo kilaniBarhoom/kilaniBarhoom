@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Kilani</h1>
 
--  👤 View My Portfolio https://glittery-sable-f888ad.netlify.app
+-  👤 [Portfolio](https://glittery-sable-f888ad.netlify.app)
 
 -  🔭 I’m a **CSE student**  
 
 -   📫 How to reach me **ibrahim-kelani@hotmail.com** 
 
--  📝 Resume **ibrahim-kelani@hotmail.com**
+-  📝 **[Resume](https://github.com/kilaniBarhoom/Resume/blob/main/README.md)**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
