@@ -7,7 +7,7 @@
 
 -   📫 How to reach me **ibrahim-kelani@hotmail.com** 
 
--  📝 **[Resume](https://github.com/kilaniBarhoom/Resume/blob/main/README.md), [Download resume](https://github.com/kilaniBarhoom/Resume/files/14431336/Ibrahim-Kilani-Resume.pdf)**
+-  📝 **[Resume](https://github.com/kilaniBarhoom/Resume/blob/main/README.md), [Download resume](https://github.com/kilaniBarhoom/kilaniBarhoom/files/14431383/Ibrahim-Kilani-FlowCV-Resume-20240228.1.pdf)**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
